@@ -1,1 +1,5 @@
-print("Merhaba PyOS")
+print "PyOS"
+
+set isim "User"
+
+print isim
